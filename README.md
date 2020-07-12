@@ -13,7 +13,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://flight-price-prediction-api.herokuapp.com/](https://ipl-score-prediction-m.herokuapp.com/)
 
 [![](https://imgur.com/nwjfivx.png)](https://ipl-score-prediction-m.herokuapp.com/)
 
@@ -66,3 +66,4 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 * Use multiple Algorithms
 * Optimize Flask app.py
 * Front-End 
+* Take into consideration the features like venue of the match and many more and use more hyperparameter tuning techniques to increase the accuracy of the model.
