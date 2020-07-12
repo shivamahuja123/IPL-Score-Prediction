@@ -15,9 +15,12 @@
 ## Demo
 Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://imgur.com/nwjfivx.png)](https://ipl-score-prediction-m.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://imgur.com/d7qCZQa.png)](https://ipl-score-prediction-m.herokuapp.com/)
+
+[![](https://imgur.com/CT7mbdj.png)](https://ipl-score-prediction-m.herokuapp.com/)
+
 
 ## Overview
 This is a Flask web app which predicts score of IPL match.
