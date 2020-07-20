@@ -13,7 +13,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://ipl-score-prediction-m.herokuapp.com/)
+Link: [https://ipl-score-estimate.herokuapp.com/](https://ipl-score-estimate.herokuapp.com/)
 
 [![](https://imgur.com/nwjfivx.png)](https://ipl-score-prediction-m.herokuapp.com/)
 
